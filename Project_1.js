@@ -1,4 +1,4 @@
-var a;
-var b;
+var a='pramod ';
+var b='sexy';
 var sum = a+b;
-console.log('sum');
+console.log(sum);
