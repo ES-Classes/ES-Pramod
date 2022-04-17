@@ -1,5 +1,4 @@
-//block scope --> let 
-//global scope --> var 
+//switch case to print days 
 let day;
 switch (new Date().getDay()) {
   case 0:
@@ -25,6 +24,7 @@ switch (new Date().getDay()) {
 }
 console.log(day);
 
+//factorial using fat arrow function
 
 let ram;
 ram =()=>{}
